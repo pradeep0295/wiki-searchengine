@@ -1,0 +1,25 @@
+10, t:Combat i:konami
+10, b:radio program i:Mike Adams c:American sports radio programs
+10, Trinec Steel Works
+10, youngs modulus
+10, String Quartet 14 Dvorak
+5, Manny Puig
+5, t:gallery i:ware b:duchess
+10, The Capture 1950
+10, t:sr-71 i:lockheed
+10, Cheiropterocephalus
+10, Interlaken
+20, b:Big Four i:Agatha Christie
+5, Chomsky Grammar
+20, t:Alfa Romeo i:sports car
+20, Space Canine Patrol Agents
+20, t:chinese democracy i:axl rose c:2008 albums
+20, t:College Hoops 2K8 i:Xbox 360
+10, t:de la Torre b:Badajoz
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik
